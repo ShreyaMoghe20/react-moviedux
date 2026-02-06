@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Footer from "./components/footer/footer";
 import Header from "./components/header/header.";
 import MoviesGrid from "./components/movies-grid/movies-grid";
