@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-moviedux/static/css/main.75e4987c.css",
-    "main.js": "/react-moviedux/static/js/main.6e74ec4e.js",
+    "main.js": "/react-moviedux/static/js/main.d7c369a9.js",
     "static/js/453.a515a7bb.chunk.js": "/react-moviedux/static/js/453.a515a7bb.chunk.js",
     "index.html": "/react-moviedux/index.html",
     "main.75e4987c.css.map": "/react-moviedux/static/css/main.75e4987c.css.map",
-    "main.6e74ec4e.js.map": "/react-moviedux/static/js/main.6e74ec4e.js.map",
+    "main.d7c369a9.js.map": "/react-moviedux/static/js/main.d7c369a9.js.map",
     "453.a515a7bb.chunk.js.map": "/react-moviedux/static/js/453.a515a7bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75e4987c.css",
-    "static/js/main.6e74ec4e.js"
+    "static/js/main.d7c369a9.js"
   ]
 }
